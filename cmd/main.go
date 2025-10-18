@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Running shctl client")
+	fmt.Println("Running shodan client...")
 }
